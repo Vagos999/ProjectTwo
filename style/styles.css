@@ -1,0 +1,60 @@
+html{
+    background: black;
+}
+ol{
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    background: palegreen;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+li {
+    display: inline;
+    margin: 0% 10%;
+    font-size: large;
+}
+
+h1{
+    width: 100%;
+    background: cadetblue;
+    text-align: center;
+    color: whitesmoke;
+}
+
+h3{
+    width: 100%;
+    color: red;
+    text-align: center;
+    margin-top: 2%;
+    font-size: x-large;
+}
+
+h3.introduction-heading{
+    font-family: "Bauhaus 93";
+    font-size: xx-large;
+}
+
+h3.work-heading{
+    font-family: "Century Gothic";
+}
+
+figure{
+    text-align: center;
+
+}
+figcaption{
+    width: 50%;
+    margin: 0% 25%;
+}
+
+p{
+    color: aqua;
+    font-family: Arial;
+    font-size: medium;
+}
+
+p.resources-work{
+    width: 100%;
+    
+}
