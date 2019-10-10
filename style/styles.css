@@ -1,4 +1,4 @@
-html{
+body{
     background: black;
 }
 ol{
@@ -9,6 +9,14 @@ ol{
     padding-top: 1%;
     padding-bottom: 1%;
 }
+
+.list-for-resources{
+    display: list-item;
+    width: 100%;
+    margin: 1% 0%;
+    color: dodgerblue;
+}
+
 li {
     display: inline;
     margin: 0% 10%;
@@ -48,13 +56,16 @@ figcaption{
     margin: 0% 25%;
 }
 
-p{
+p,ul{
     color: aqua;
     font-family: Arial;
-    font-size: medium;
+    font-size: large;
 }
 
 p.resources-work{
+    margin-top: 3%;
     width: 100%;
-    
+    text-align: center;
+    font-size: large;
+    text-decoration: underline;
 }
