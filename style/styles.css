@@ -30,6 +30,27 @@ h1{
     color: whitesmoke;
 }
 
+h2.silvestre{
+    width: 100%;
+    color: lime;
+    display: inline-block;
+    text-align: center;
+}
+
+h2.rocko{
+    width: 100%;
+    color: sandybrown;
+    display: inline-block;
+    text-align: center;
+}
+
+h2.chiqui{
+    width: 100%;
+    color: white;
+    display: inline-block;
+    text-align: center;
+}
+
 h3{
     width: 100%;
     color: red;
@@ -45,6 +66,10 @@ h3.introduction-heading{
 
 h3.work-heading{
     font-family: "Century Gothic";
+}
+
+h3.video-title{
+    margin: 3% 0%;
 }
 
 figure{
@@ -68,4 +93,9 @@ p.resources-work{
     text-align: center;
     font-size: large;
     text-decoration: underline;
+}
+
+.intro-pets{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
 }
