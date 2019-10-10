@@ -30,25 +30,39 @@ h1{
     color: whitesmoke;
 }
 
+h2{
+    margin: 50px 0px;
+    width: 1520px;
+    background: skyblue;
+    text-align: center;
+    color: maroon;
+}
+
 h2.silvestre{
+    margin: 2% 0%;
     width: 100%;
     color: lime;
     display: inline-block;
     text-align: center;
+    background: unset;
 }
 
 h2.rocko{
+    margin: 2% 0%;
     width: 100%;
     color: sandybrown;
     display: inline-block;
     text-align: center;
+    background: unset;
 }
 
 h2.chiqui{
+    margin: 2% 0%;
     width: 100%;
     color: white;
     display: inline-block;
     text-align: center;
+    background: unset;
 }
 
 h3{
@@ -96,6 +110,19 @@ p.resources-work{
 }
 
 .intro-pets{
-    font-family: 'Playfair Display', serif;
+    font-family: 'Merienda One', cursive;
     text-align: center;
+    font-size: large;
+}
+
+iframe{
+    width: 75%;
+    margin: 0% 12.5%;
+    display: inline-block;
+    text-align: center;
+}
+
+.address{
+    font-family: Broadway, cursive;
+    color: gold;
 }
