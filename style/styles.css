@@ -28,6 +28,12 @@ li {
     font-size: large;
 }
 
+.list-for-employment{
+    display: list-item;
+    margin: 15px 0px;
+    font-weight: bolder;
+}
+
 h1{
     width: 100%;
     background: cadetblue;
@@ -79,7 +85,7 @@ h3{
 
 h3.resume{
     width: 1520px;
-    margin-top: 50px;
+    margin-top: 53px;
 }
 
 h3.introduction-heading{
@@ -121,6 +127,7 @@ p.resources-work{
     text-align: center;
     font-size: large;
     text-decoration: underline;
+    text-decoration-color: red;
 }
 
 .intro-pets{
@@ -139,4 +146,34 @@ iframe{
 .address{
     font-family: Broadway, cursive;
     color: gold;
+}
+
+p.paragraph-employment{
+    margin-top: 35px;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+#jpmorgan-heading{
+    margin-top: 40px;
+    color: snow;
+}
+
+#akademos-heading{
+    margin-top: 40px;
+    color: magenta;
+}
+
+#chevron-heading{
+    margin-top: 40px;
+    color: yellow;
+}
+
+#introduction-figcaption{
+    font-weight: bolder;
+}
+
+.truman-heading{
+    margin-top: 40px;
+    color: chartreuse;
 }
