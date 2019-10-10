@@ -73,6 +73,11 @@ h3{
     font-size: x-large;
 }
 
+h3.resume{
+    width: 1520px;
+    margin-top: 50px;
+}
+
 h3.introduction-heading{
     font-family: "Bauhaus 93";
     font-size: xx-large;
@@ -99,6 +104,12 @@ p,ul{
     color: aqua;
     font-family: Arial;
     font-size: large;
+}
+
+p.resume-paragraph{
+    width: 1520px;
+    text-align: center;
+    color: dodgerblue;
 }
 
 p.resources-work{
