@@ -1,6 +1,11 @@
 body{
     background: black;
 }
+
+body.resume-body{
+    width: 1580px;
+    height: 2000px;
+}
 ol{
     margin: 0 auto;
     width: 100%;
@@ -19,7 +24,7 @@ ol{
 
 li {
     display: inline;
-    margin: 0% 10%;
+    margin: 0% 10.5%;
     font-size: large;
 }
 
@@ -32,7 +37,6 @@ h1{
 
 h2{
     margin: 50px 0px;
-    width: 1520px;
     background: skyblue;
     text-align: center;
     color: maroon;
@@ -107,7 +111,6 @@ p,ul{
 }
 
 p.resume-paragraph{
-    width: 1520px;
     text-align: center;
     color: dodgerblue;
 }
