@@ -1,0 +1,179 @@
+body{
+    background: black;
+}
+
+body.resume-body{
+    width: 1520px;
+    height: 2000px;
+}
+ol{
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    background: palegreen;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.list-for-resources{
+    display: list-item;
+    width: 100%;
+    margin: 1% 0%;
+    color: dodgerblue;
+}
+
+li {
+    display: inline;
+    margin: 0% 10.5%;
+    font-size: large;
+}
+
+.list-for-employment{
+    display: list-item;
+    margin: 15px 0px;
+    font-weight: bolder;
+}
+
+h1{
+    width: 100%;
+    background: cadetblue;
+    text-align: center;
+    color: whitesmoke;
+}
+
+h2{
+    margin: 50px 0px;
+    background: skyblue;
+    text-align: center;
+    color: maroon;
+}
+
+h2.silvestre{
+    margin: 2% 0%;
+    width: 100%;
+    color: lime;
+    display: inline-block;
+    text-align: center;
+    background: unset;
+}
+
+h2.rocko{
+    margin: 2% 0%;
+    width: 100%;
+    color: sandybrown;
+    display: inline-block;
+    text-align: center;
+    background: unset;
+}
+
+h2.chiqui{
+    margin: 2% 0%;
+    width: 100%;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    background: unset;
+}
+
+h3{
+    width: 100%;
+    color: red;
+    text-align: center;
+    margin-top: 2%;
+    font-size: x-large;
+}
+
+h3.resume{
+    width: 1520px;
+    margin-top: 53px;
+}
+
+h3.introduction-heading{
+    font-family: "Bauhaus 93";
+    font-size: xx-large;
+}
+
+h3.work-heading{
+    font-family: "Century Gothic";
+}
+
+h3.video-title{
+    margin: 3% 0%;
+}
+
+figure{
+    text-align: center;
+
+}
+figcaption{
+    width: 50%;
+    margin: 0% 25%;
+}
+
+p,ul{
+    color: aqua;
+    font-family: Arial;
+    font-size: large;
+}
+
+p.resume-paragraph{
+    text-align: center;
+    color: dodgerblue;
+}
+
+p.resources-work{
+    margin-top: 3%;
+    width: 100%;
+    text-align: center;
+    font-size: large;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.intro-pets{
+    font-family: 'Merienda One', cursive;
+    text-align: center;
+    font-size: large;
+}
+
+iframe{
+    width: 75%;
+    margin: 0% 12.5%;
+    display: inline-block;
+    text-align: center;
+}
+
+.address{
+    font-family: Broadway, cursive;
+    color: gold;
+}
+
+p.paragraph-employment{
+    margin-top: 35px;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+#jpmorgan-heading{
+    margin-top: 40px;
+    color: snow;
+}
+
+#akademos-heading{
+    margin-top: 40px;
+    color: magenta;
+}
+
+#chevron-heading{
+    margin-top: 40px;
+    color: yellow;
+}
+
+#introduction-figcaption{
+    font-weight: bolder;
+}
+
+.truman-heading{
+    margin-top: 40px;
+    color: chartreuse;
+}
